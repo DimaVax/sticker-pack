@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sticker-pack/static/css/main.e6c13ad2.css",
+    "main.js": "/sticker-pack/static/js/main.45a3ab21.js",
+    "index.html": "/sticker-pack/index.html",
+    "main.e6c13ad2.css.map": "/sticker-pack/static/css/main.e6c13ad2.css.map",
+    "main.45a3ab21.js.map": "/sticker-pack/static/js/main.45a3ab21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.45a3ab21.js"
+  ]
+}
